@@ -1,0 +1,29 @@
+# Environments and Secrets
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Project Specific Data & Uploads
+uploads/
+data/
+*.pdf
+*.doc
+*.docx
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
